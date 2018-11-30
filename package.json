@@ -1,0 +1,18 @@
+{
+  "name": "nodestasker",
+  "version": "0.0.1",
+  "description": "API for creating Nodes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OlegPanasyuk/NodeTasker.git"
+  },
+  "keywords": [
+    "Nodes"
+  ],
+  "author": "Oleg",
+  "license": "ISC"
+}
